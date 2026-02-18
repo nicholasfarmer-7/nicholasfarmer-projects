@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nicholas! <br/><a href="https://www.linkedin.com/in/nfarmer48/">IT Professional</a> | <a href="https://github.com/nfarmer0101">Programmer</a> | <a href="https://www.medium.com/@nfarmer0101">Tech Writer</a></h1>
+<h1>Hi, I'm Nicholas! <br/><a href="https://www.linkedin.com/in/nfarmer48/">System/Network Engineer</a> | <a href="https://github.com/nfarmer0101">Python</a> | <a href="https://www.medium.com/@nfarmer0101">Linux</a></h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
