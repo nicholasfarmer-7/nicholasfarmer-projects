@@ -25,7 +25,6 @@
 [linkedin]: https://linkedin.com/in/nfarmer48
 [medium]: https://medium.com/in/@thecyberfarmer
 
-
 <!--
 **nfarmer0101/nfarmer0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
