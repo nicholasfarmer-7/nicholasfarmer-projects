@@ -8,8 +8,8 @@
 
 <h2>📃 Certifications</h2>
 
+- [Cisco CCNA](https://www.credly.com/badges/f040040c-e2f8-46ea-b297-2f87d50b59b7/public_url)
 - [CompTIA Security+ce](https://www.credly.com/badges/bd5c4305-224d-4277-b7bb-a5cd7d1d1c54/public_url)
-- [CompTIA A+ce](https://www.credly.com/badges/df7b8824-c517-4ae0-a87d-beb0c0e0fc31/public_url)
 
 <h2>📺 Popular Tech Blogs</h2>
 
@@ -22,7 +22,6 @@
 [<img align="left" alt="NicholasFarmer | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 
-[twitter]: https://twitter.com/TheCyberFarm
 [linkedin]: https://linkedin.com/in/nfarmer48
 [medium]: https://medium.com/in/@thecyberfarmer
 
